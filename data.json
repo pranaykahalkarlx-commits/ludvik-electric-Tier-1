@@ -1,0 +1,128 @@
+{
+  "businessName": "Ludvik Electric",
+  "category": "Electrician",
+  "phone": "(303) 371-2309",
+  "email": "contact@ludvikelectric.com",
+  "address": {
+    "full": "4567 Peoria St, Denver, CO 80239",
+    "street": "4567 Peoria St",
+    "city": "Denver",
+    "state": "Colorado",
+    "postal_code": "80239",
+    "neighborhood": "Montbello"
+  },
+  "location": {
+    "lat": 39.7897668,
+    "lng": -104.8653014
+  },
+  "rating": 3.3,
+  "totalReviews": 7,
+  "yearEstablished": "2005",
+  "hero": {
+    "headline": "Powering Denver Homes & Businesses with Expert Electrical Solutions",
+    "subheadline": "Reliable, Safe, and Efficient Electrical Services You Can Trust in Montbello and Beyond.",
+    "cta_text": "Get Your Free Estimate Today!"
+  },
+  "aboutUs": "Ludvik Electric has been a trusted name in electrical services for the Denver metropolitan area, particularly within the Montbello neighborhood, since 2005. As a locally owned and operated business, we understand the unique electrical needs of homes and businesses in our community. Our team of certified and highly experienced electricians is dedicated to providing top-tier, reliable, and safe electrical solutions, from routine maintenance and complex repairs to full-scale installations and system upgrades. We pride ourselves on our meticulous attention to detail, adherence to the highest safety standards, and unwavering commitment to customer satisfaction. At Ludvik Electric, we believe in transparent communication, fair pricing, and delivering efficient results that stand the test of time, ensuring your property is powered safely and efficiently for years to come. Choose Ludvik Electric for unparalleled expertise and peace of mind.",
+  "services": [
+    {
+      "name": "Residential Electrical Services",
+      "description": "From troubleshooting outlets to complete home rewiring, we ensure your home's electrical system is safe, up-to-code, and efficient for modern living.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "name": "Commercial Electrical Solutions",
+      "description": "Keep your business running smoothly and safely with our expert commercial wiring, lighting maintenance, panel upgrades, and new construction electrical services.",
+      "image": "https://picsum.photos/800/600?random=3"
+    },
+    {
+      "name": "Electrical Panel Upgrades & Repairs",
+      "description": "Modernize your property with safe, efficient electrical panel upgrades and service changes to meet increased power demands and prevent hazards.",
+      "image": "https://picsum.photos/800/600?random=4"
+    },
+    {
+      "name": "Lighting Installation & Repair",
+      "description": "Enhance your space with professional indoor and outdoor lighting solutions, including smart lighting systems, landscape lighting, and fixture installations.",
+      "image": "https://picsum.photos/800/600?random=5"
+    },
+    {
+      "name": "Safety Inspections & Code Compliance",
+      "description": "Comprehensive electrical inspections for homes and businesses to identify potential hazards and ensure your property meets current safety standards and local electrical codes.",
+      "image": "https://picsum.photos/800/600?random=2"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Ludvik Electric did a fantastic job upgrading our outdated electrical panel. The team was professional, clean, and completed the work efficiently. Highly recommend their service for anyone in Montbello!",
+      "author": "Maria S., Montbello",
+      "rating": 5
+    },
+    {
+      "text": "I called Ludvik Electric for a persistent flickering light issue, and they responded quickly. The electrician was knowledgeable, explained everything clearly, and fixed the problem right away. Very impressed with their expertise.",
+      "author": "David P., Denver",
+      "rating": 5
+    },
+    {
+      "text": "We needed new outdoor lighting installed, and Ludvik Electric provided excellent service from the initial quote to the final installation. Our backyard looks amazing, and we feel much safer. Great local business!",
+      "author": "Sarah L., Aurora",
+      "rating": 5
+    }
+  ],
+  "uniqueSellingPoints": [
+    "Denver's Trusted Local Electricians Since 2005",
+    "Certified & Highly Experienced Professionals",
+    "Unwavering Commitment to Safety & Quality",
+    "Transparent Pricing & No Hidden Fees",
+    "Prompt & Reliable Service for Every Job",
+    "Dedicated to Complete Customer Satisfaction"
+  ],
+  "design": {
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#1D4ED8",
+    "style": "professional-trade"
+  },
+  "metaDescription": "Ludvik Electric — professional electrician in Denver.",
+  "keywords": [
+    "electrician Denver",
+    "electrical services Montbello",
+    "panel upgrade Denver",
+    "commercial electrician Colorado",
+    "home electrical repair"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:00 AM - 1:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMaps": "https://maps.app.goo.gl/hJkdWkZRRRKQg1FD7",
+  "mainImage": "ludvik-electric-service-van.jpg",
+  "stockImageFallback": "https://picsum.photos/1920/1080?random=1",
+  "status": {
+    "permanently_closed": false
+  }
+}
